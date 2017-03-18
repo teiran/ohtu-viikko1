@@ -1,2 +1,5 @@
 #jättää lisäämätä kaikki .tmp tiedostot juurikansiossa
 /*.tmp
+
+#jätä build kanso lisäämättä
+build/
