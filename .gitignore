@@ -3,3 +3,4 @@
 
 #jätä build kanso lisäämättä
 build/
+/.nb-gradle/
